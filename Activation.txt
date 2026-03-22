@@ -1,0 +1,11 @@
+python -m venv venv # for creating
+venv\Scripts\activate
+
+
+Agenda: 1- Chatbot with LangGraph + Tools 
+        2- ReAct Architecture (Reasoning + Act)
+
+
+MCP = Model Context Protocol
+
+Workflow 
