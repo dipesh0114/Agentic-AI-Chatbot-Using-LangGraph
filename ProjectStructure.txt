@@ -1,0 +1,10 @@
+agentic_chatbot/
+├── .env
+├── requirements.txt
+├── agent/
+│   ├── __init__.py
+│   ├── state.py
+│   ├── tools.py
+│   ├── graph.py
+│   └── nodes.py
+├── app.py

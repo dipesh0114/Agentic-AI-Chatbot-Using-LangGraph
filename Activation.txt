@@ -8,4 +8,14 @@ Agenda: 1- Chatbot with LangGraph + Tools
 
 MCP = Model Context Protocol
 
-Workflow 
+Workflow:
+
+            Start 
+               |                       |------> ARXIV
+            AI Assistant  ----> Tools -|------> WIKIPEDIA           
+               |                       |------> INTERNET SEARCH
+               | 
+               END
+
+
+               This is how ReAct Architecture works.
